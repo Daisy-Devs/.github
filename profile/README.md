@@ -32,8 +32,8 @@ We're a team of friends who turned our passion for building into a full-time cra
 - Smart contracts, NFT & DeFi integrations
 
 **Tools & Infra**
-- PostgreSQL, MongoDB
-- Docker, Vercel, AWS
+- Supabase
+- Netlify
 
 ---
 
